@@ -1,0 +1,18 @@
+.input-box {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  width: 40%;
+  margin-top: 30px;
+}
+
+.contained {
+  width: 40%;
+  margin: 0 auto;
+  border: 2px solid black;
+  padding: 20px;
+}
+
+.btn-box {
+  margin-top: 100px;
+}
